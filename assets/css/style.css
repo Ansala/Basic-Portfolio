@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+   
+   
+}
+
+
+#NavLoc {
+    float: right;
+}
+
+#main-bio{
+    margin-top: 40px;
+}
+
+#h2{
+    background-color:#4aaaa5;
+    color: white;
+    padding: 10px;
+    width: 150px;
+
+}
+
+
+#contact-info{
+    background-color: rgb(190, 113, 113);
+    padding: 20px;
+    width: 700px;
+    height: 400px;
+}
