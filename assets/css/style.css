@@ -25,6 +25,7 @@ header {
     float: left;
     line-height: 50px;
     text-align: center;
+    color: white;
 }
 
 #NavLoc {
@@ -33,9 +34,6 @@ header {
     line-height: 50px;
 }
 
-#main-bio{
-    background-color: blueviolet;
-}
 
 
 /*
@@ -51,6 +49,10 @@ header {
     width: 700px;
     height: 400px;
     margin: 0 auto;
+}
+
+#h3{
+    color: #4aaaa5;
 }
 
 textarea, input {
@@ -90,4 +92,13 @@ img.resize {
   .column img {
     margin-top: 8px;
     vertical-align: middle;
+  }
+
+  img.resize2{
+      width:220px;
+      float: left;
+  }
+
+  #p1{
+      line-height: 1.5;
   }
